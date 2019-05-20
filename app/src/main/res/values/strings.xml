@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesNow</string>
+    <string-array name="sorting_selector">
+        <item>Popular</item>
+        <item>Rating</item>
+
+    </string-array>
+</resources>
